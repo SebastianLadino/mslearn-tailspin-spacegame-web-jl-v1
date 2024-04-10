@@ -37,7 +37,7 @@ steps:
     command: 'restore'
     projects: '**/*.csproj'
 
-# Use templates whit parameters
+# Using templates with parameters
 - template: templates/build.yml
   parameters:
     buildConfiguration: 'Debug'
