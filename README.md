@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Lern21tailspin/Space%20Game%20-%20web%20-%20Pipeline%20-%20v1/_apis/build/status%2FSebastianLadino.mslearn-tailspin-spacegame-web-jl-v1?branchName=main)](https://dev.azure.com/Lern21tailspin/Space%20Game%20-%20web%20-%20Pipeline%20-%20v1/_build/latest?definitionId=4&branchName=main)
 
 # Contributing
 
